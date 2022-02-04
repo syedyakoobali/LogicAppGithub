@@ -160,11 +160,11 @@
                             "value": "Microsoft.Azure.Functions.ExtensionBundle.Workflows",
                             "slotSetting": false
                         },
-                        {
-                            "name": "AzureFunctionsJobHost__extensionBundle__version",
-                            // "value": "[1.*, 2.0.0)",
-                            "slotSetting": false
-                        },
+                        // {
+                        //     "name": "AzureFunctionsJobHost__extensionBundle__version",
+                        //     "value": "[1.*, 2.0.0)",
+                        //     "slotSetting": false
+                        // },
                         {
                             "name": "WEBSITE_CONTENTOVERVNET",
                             "value": "0",
